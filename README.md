@@ -1,2 +1,2 @@
 # todo-app
-Simple todo application using NodeJS  API->NestJs &amp; UI->Angular test 123
+Simple todo application using NodeJS  API->NestJs &amp; UI->Angular
